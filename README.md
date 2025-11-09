@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a Wordpress project**
 
-- 🌱 I’m currently learning **Data Structure and Algorithm**
+- 🌱 I’m currently learning **Algorithm**
 
 - 📫 How to reach me **Sinan.Islam1805@gmail.com**
 
