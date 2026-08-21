@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sinan</h1>
 <h3 align="center">A passionate Computer Science And Engineering Student from Bangladesh</h3>
 
-- 🔭 I’m currently working on **a Wordpress project**
+- 🔭 I’m currently working on **Movie Ticketing System**
 
-- 🌱 I’m currently learning **Algorithm**
+- 🌱 I’m currently learning **DataBase**
 
 - 📫 How to reach me **Sinan.Islam1805@gmail.com**
 
